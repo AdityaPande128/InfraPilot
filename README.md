@@ -1,4 +1,4 @@
-# InfraPilot 
+# InfraPilot - Agentic Devops Copilot for VS Code
 
 **InfraPilot** is a seamless Visual Studio Code extension designed for developers and DevOps engineers to automatically generate least-privilege AWS IAM policies directly from their application code. 
 
